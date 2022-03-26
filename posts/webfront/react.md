@@ -1,5 +1,5 @@
 ---
-title: 'reactのページ
+title: 'reactのページ'
 date: '2020-03-05'
 ---
 
